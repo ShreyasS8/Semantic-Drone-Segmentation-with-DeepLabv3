@@ -16,19 +16,6 @@ It contains:
 * `label_images_semantic/` → Pixel-level semantic labels
 * `class_dict_seg.csv` → Class color mapping
 
-Place the dataset in your project directory like this:
-
-```
-project/
-├── dataset/
-│   ├── semantic_drone_dataset/
-│   │   ├── original_images/
-│   │   ├── label_images_semantic/
-│   │   └── class_dict_seg.csv
-├── train.py   # main training script
-└── README.md
-```
-
 ---
 
 ## ⚙️ Requirements
